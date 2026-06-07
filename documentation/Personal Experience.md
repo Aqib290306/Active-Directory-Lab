@@ -9,4 +9,6 @@
 
 - after i had gotten the windows running, I was stuck in a sort of minimized window, so I had to "insert guest additions" which essentially allowed me to put my windows into a proper full screen
 
+- Today I had spent about a solid 1.5 hours on just figuring out how to get github to work, especially with the screen shotting and learning what i should and shouldnt be documenting. To be honest, I felt like pulling my hair out, but I did manage to solve my issues in the end (07/06/2026)
+
 
