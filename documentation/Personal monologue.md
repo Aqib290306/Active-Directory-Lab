@@ -11,4 +11,6 @@
 
 - Today I had spent about a solid 1.5 hours on just figuring out how to get github to work, especially with the screen shotting and learning what i should and shouldnt be documenting. To be honest, I felt like pulling my hair out, but I did manage to solve my issues in the end (07/06/2026)
 
+- Today, I did a lot more research on the active directory, and i've come to a sort of realisation that I may have bitten off more than i can chew. Hence, I will slow down a bit more to take a second to view what skills and experiences i need to get out of this specific project. I will continue working on this still but just at a slower rate while I direct more of my focus towards the A+ certification.
+
 
