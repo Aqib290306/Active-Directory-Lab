@@ -14,7 +14,7 @@ I am building an Active Directory homelab while studying for CompTIA A+.
 
 ## Progress
 
-- [ ] Install Windows Server
+- [x] Install Windows Server
 - [ ] Create Domain Controller
 - [ ] Create Users
 - [ ] Join Client PC
