@@ -13,4 +13,6 @@
 
 - Today, I did a lot more research on the active directory, and i've come to a sort of realisation that I may have bitten off more than i can chew. Hence, I will slow down a bit more to take a second to view what skills and experiences i need to get out of this specific project. I will continue working on this still but just at a slower rate while I direct more of my focus towards the A+ certification. (08/06/2026)
 
+- Today, I did some research on setting up the windows server and static IP configuration. I plan on continuing my project once every few days as most of my attention is currently directed towards the A+ certification, but i will try keep a "documentary" of what i've done towards this project whether it be actual contribution or just research. I will aim to update  daitly.
+
 
