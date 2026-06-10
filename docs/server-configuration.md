@@ -10,4 +10,5 @@
 
 Server is ready for Active Directory.
 
-![Server renamed](../screenshots/Server-renamed.png)
+![Server renamed](../screenshots/Server-Renamed.png)
+![Static IP Configured](../screenshots/Static-IP-configured.png)
