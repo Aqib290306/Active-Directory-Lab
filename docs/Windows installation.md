@@ -10,5 +10,5 @@
 
 - Windows Server installed successfully.
 
-![Windows installed](docs/Windows-installed.png)
+![Windows installed](../screenshots/Windows-installed.png)
 
