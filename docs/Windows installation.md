@@ -1,6 +1,6 @@
-### Objective
+# Objective
 
-# Install Windows Server 2025 on a virtual machine.
+## Install Windows Server 2025 on a virtual machine.
 
 ## Environment
 - VirtualBox
