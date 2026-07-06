@@ -1,11 +1,11 @@
-Objective
+## Objective
 
-Install Active Directory and create a domain.
+[x] Install Active Directory and create a domain.
 
-Actions Performed
-Installed AD DS role
-Promoted server to Domain Controller
-Created homelab.local
-Result
+### Actions Performed
+[x]Installed AD DS role
+[x]Promoted server to Domain Controller
+[x]Created homelab.local
+## Result
 
-Active Directory operational.
+[x]Active Directory operational.
