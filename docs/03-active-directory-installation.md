@@ -8,6 +8,7 @@ Install Active Directory and create a domain.
 - Created homelab.local
 ## Result
 
-Active Directory operational.
+Active Directory operational and Domain created.
 
 ![Active directory installed](../screenshots/ad-ds-installed.png)
+![Domain created](../screenshots/domain-created.png)
