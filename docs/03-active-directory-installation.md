@@ -10,4 +10,4 @@ Install Active Directory and create a domain.
 
 Active Directory operational.
 
-![Active directory installed](../screenshots/Server-Renamed.png)
+![Active directory installed](../screenshots/ad-ds-installed.png)
