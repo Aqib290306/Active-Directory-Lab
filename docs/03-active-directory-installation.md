@@ -6,6 +6,6 @@
 - Installed AD DS role
 - Promoted server to Domain Controller
 - Created homelab.local
-## Result
+### Result
 
 - Active Directory operational.
