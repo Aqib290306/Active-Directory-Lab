@@ -2,7 +2,7 @@
 
 ## Goal
 
-I am building an Active Directory homelab while studying for CompTIA A+.
+Building an Active Directory homelab 
 
 ## Objectives
 
