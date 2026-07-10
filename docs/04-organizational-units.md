@@ -49,9 +49,10 @@ Creating the Parent OU
 ![Creating Homelab OU](../screenshots/create-homelab-ou.png)
 Completed OU Structure
 ![Completed OU Structure](../screenshots/ou-structure-complete.png)
-Verification
 
-## To verify the configuration was successful, I confirmed that:
+## Verification
+
+### To verify the configuration was successful, I confirmed that:
 
 The Homelab OU appeared in Active Directory.
 Two child OUs were created successfully.
