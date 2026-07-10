@@ -54,10 +54,9 @@ Completed OU Structure
 
 ### To verify the configuration was successful, I confirmed that:
 
-The Homelab OU appeared in Active Directory.
-Two child OUs were created successfully.
-
-No errors occurred during creation.
+- The Homelab OU appeared in Active Directory.
+- Two child OUs were created successfully.
+- No errors occurred during creation.
 
 ## What I Learned
 
